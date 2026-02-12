@@ -1,4 +1,4 @@
-# Hospital Management System
+ # Hospital Management System
 
 A comprehensive Hospital Management System built with PHP, MySQL, and Bootstrap 4. This system is designed for managing hospital operations including patient records, appointments, doctors, employees, billing, and more.
 
@@ -149,9 +149,7 @@ For issues or questions:
 3. Verify PHP and MySQL versions meet requirements
 4. Check Apache error logs for detailed error messages
 
-## License
 
-This project is for educational purposes. Modify and use as needed for your school project.
 
 ## Credits
 
@@ -160,14 +158,5 @@ This project is for educational purposes. Modify and use as needed for your scho
 - jQuery
 - Chart.js
 
-## Notes for School Project
 
-- All external links have been removed
-- System is ready for local hosting
-- Database structure is complete and ready to import
-- All files converted to PHP for server-side functionality
-- Professional and clean code structure
 
----
-
-**Good luck with your school project!**
